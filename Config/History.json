@@ -1,0 +1,94 @@
+{
+    "Low":  [
+                {
+                    "Title":  "Low Priority News (1).flac",
+                    "Total-Plays":  7,
+                    "Last-Played":  4,
+                    "Dated-Added":  "02/26/2021 23:48:27",
+                    "Weight":  402.39908641088555416405793422
+                },
+                {
+                    "Title":  "Low Priority News (2).flac",
+                    "Total-Plays":  8,
+                    "Last-Played":  3,
+                    "Dated-Added":  "02/26/2021 23:48:27",
+                    "Weight":  393.04903619478607036487660641
+                },
+                {
+                    "Title":  "Low Priority News (3).flac",
+                    "Total-Plays":  8,
+                    "Last-Played":  0,
+                    "Dated-Added":  "02/26/2021 23:48:27",
+                    "Weight":  415.44410080837917853608754642
+                },
+                {
+                    "Title":  "Low Priority News (4).flac",
+                    "Total-Plays":  7,
+                    "Last-Played":  2,
+                    "Dated-Added":  "02/26/2021 23:48:27",
+                    "Weight":  406.31904747889007528455510373
+                },
+                {
+                    "Title":  "Low Priority News (5).flac",
+                    "Total-Plays":  7,
+                    "Last-Played":  2,
+                    "Dated-Added":  "02/26/2021 23:48:27",
+                    "Weight":  406.28184675310856884993901486
+                },
+                {
+                    "Title":  "Low Priority News (6).flac",
+                    "Total-Plays":  8,
+                    "Last-Played":  0,
+                    "Dated-Added":  "02/26/2021 23:48:27",
+                    "Weight":  415.05153392893635728389104373
+                }
+            ],
+    "Medium":  [
+                   {
+                       "Title":  "Medium Priority News (1).flac",
+                       "Total-Plays":  4,
+                       "Last-Played":  6,
+                       "Dated-Added":  "02/26/2021 23:48:27",
+                       "Weight":  419.00962060662569158365320948
+                   },
+                   {
+                       "Title":  "Medium Priority News (2).flac",
+                       "Total-Plays":  5,
+                       "Last-Played":  4,
+                       "Dated-Added":  "02/26/2021 23:48:27",
+                       "Weight":  393.93786403893297687754494921
+                   },
+                   {
+                       "Title":  "Medium Priority News (3).flac",
+                       "Total-Plays":  6,
+                       "Last-Played":  1,
+                       "Dated-Added":  "02/26/2021 23:48:27",
+                       "Weight":  404.01659754459841114759000426
+                   }
+               ],
+    "High":  [
+                 {
+                     "Title":  "High Priority News (1).flac",
+                     "Total-Plays":  13,
+                     "Last-Played":  3,
+                     "Dated-Added":  "02/26/2021 23:48:27",
+                     "Weight":  392.19521181751418744913370317
+                 },
+                 {
+                     "Title":  "High Priority News (2).flac",
+                     "Total-Plays":  11,
+                     "Last-Played":  1,
+                     "Dated-Added":  "02/26/2021 23:48:27",
+                     "Weight":  414.01948266366558961233370317
+                 }
+             ],
+    "Critical":  [
+                     {
+                         "Title":  "The view.flac",
+                         "Total-Plays":  48,
+                         "Last-Played":  0,
+                         "Dated-Added":  "02/26/2021 23:48:27",
+                         "Weight":  99760
+                     }
+                 ]
+}

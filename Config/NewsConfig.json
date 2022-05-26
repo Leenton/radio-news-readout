@@ -1,0 +1,17 @@
+{
+    "Low-Priority": "\\\\CLUB-MAIN\\Profiles\\Dev-Leenton\\Documents\\Powershell\\News Broadcast\\Low",
+    "Medium-Priority": "\\\\CLUB-MAIN\\Profiles\\Dev-Leenton\\Documents\\Powershell\\News Broadcast\\Medium",
+    "High-Priority": "\\\\CLUB-MAIN\\Profiles\\Dev-Leenton\\Documents\\Powershell\\News Broadcast\\High",
+    "Critical-Priority": "\\\\CLUB-MAIN\\Profiles\\Dev-Leenton\\Documents\\Powershell\\News Broadcast\\Critical",
+    "Playout-Folder": "\\\\CLUB-MAIN\\Profiles\\Dev-Leenton\\Documents\\Powershell\\News Broadcast\\Playout",
+    "Broadcast-History": "\\\\CLUB-MAIN\\Profiles\\Dev-Leenton\\Documents\\Powershell\\News Broadcast\\Config\\History.json",
+    "Log-File": "\\\\CLUB-MAIN\\Profiles\\Dev-Leenton\\Documents\\Powershell\\News Broadcast\\Log.txt",
+    "Low-Starting-Weight": 150,
+    "Medium-Starting-Weight": 200,
+    "High-Starting-Weight": 250,
+    "Critical-Starting-Weight": 100000,
+    "Low-Modifier": 10,
+    "Medium-Modifier": 5,
+    "High-Modifier": 7.5,
+    "Critical-Modifier": 5
+}
